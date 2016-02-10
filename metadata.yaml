@@ -1,0 +1,33 @@
+_repo: Liisan-seikkailut-ihmemaassa_46569
+alternative_title: Alice's adventures in Wonderland. Finnish
+contributor:
+  translator:
+    agent_name: Swan, Annie S. (Annie Shepherd)
+    aliases:
+    - Lyall, David
+    - Burnett-Smith, A. (Annie)
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '4770'
+    url: http://www.gutenberg.org/2009/agents/4770
+    wikipedia: http://www.slainte.org.uk/scotauth/swanadsw.htm
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Carroll
+description: ''
+gutenberg_issued: '2014-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46569'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Liisan seikkailut ihmemaassa
+url: http://www.gutenberg.org/ebooks/46569
